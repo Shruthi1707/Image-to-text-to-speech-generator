@@ -1,6 +1,7 @@
 # PicTalk
 click on tne link to watch the video
 https://drive.google.com/file/d/14fbh2e3EYyXEosscmSO3dlo4qQuxi-ar/view?usp=sharing
+
 Our project is an image recoginition system, which extracts text from images and converts them into audio files and editable text.
 The audio files help the blind and illiterate understand the text given in the images
 We have used: pyTesseract.
